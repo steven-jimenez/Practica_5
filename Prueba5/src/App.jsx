@@ -4,7 +4,7 @@ function App() {
 
   return (
     <>
-      <h1>Practica #5</h1>
+      <h1>The Last Of Us II</h1>
 
       <div className="imagenes">
         <img src="https://sm.ign.com/t/ign_latam/screenshot/default/patooward_y5xr.1280.jpg" alt="Ellie" />
